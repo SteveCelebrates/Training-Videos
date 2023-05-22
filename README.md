@@ -24,8 +24,8 @@ Use the video below to learn on the Loyality Programs flow on the admin dashboar
 
 [Click here to watch the video](https://youtu.be/b-K350oAWzY)
 
-## View Pdf Trainging Summary
+## View Pdf Training Summary
 
 Use the PDF below to learn on the basics of both the admin dashboard and the cashier role
 
-[Click here to view the pdf](https://youtu.be/b-K350oAWzY)
+[Click here to view the pdf](https://github.com/SteveCelebrates/Training-Videos/blob/bee5ea351ac80bb492e849235804c0cf71c58c27/Training_Manual.pdf)
