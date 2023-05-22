@@ -6,5 +6,10 @@ Use the video below to learn on the branch request flow on the admin dashboard.
 
 [Click here to watch the video](https://www.youtube.com/embed/Z1kCFECPqKo)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Z1kCFECPqKo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+## Alladin Inventory Management
+
+Use the video below to learn on the inventory management flow on the admin dashboard.
+
+[Click here to watch the video](https://youtu.be/zGE5OrdoK9E)
+
 
