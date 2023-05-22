@@ -12,4 +12,20 @@ Use the video below to learn on the inventory management flow on the admin dashb
 
 [Click here to watch the video](https://youtu.be/zGE5OrdoK9E)
 
+## Alladin Purchase Management
 
+Use the video below to learn on the Purchase management flow on the admin dashboard.
+
+[Click here to watch the video](https://youtu.be/K-UlvI380mE)
+
+## Alladin POS Loyality Programs
+
+Use the video below to learn on the Loyality Programs flow on the admin dashboard.
+
+[Click here to watch the video](https://youtu.be/b-K350oAWzY)
+
+## View Pdf Trainging Summary
+
+Use the PDF below to learn on the basics of both the admin dashboard and the cashier role
+
+[Click here to view the pdf](https://youtu.be/b-K350oAWzY)
